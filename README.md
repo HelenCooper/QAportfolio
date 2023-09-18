@@ -2,7 +2,7 @@
 
 Оглавление
 
-1. Тестирование интернет-магазина [(смотреть)](https://github.com/HelenCooper/QAportfolio/tree/main/1-v.qupe)
+1. Тестирование интернет-магазина [(pdf)](https://github.com/HelenCooper/QAportfolio/tree/main/1-v.qupe) [(source)](https://docs.google.com/spreadsheets/d/1it8xaia3SSTV1gAl8gGMFXZunG4uDgUIwUJ6sqDlAQc/edit?usp=sharing)
 
 TODO:
 
